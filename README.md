@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @vaibhavkumar2001
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Structure And Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, I'm [Your Name]  
+🚀 Computer Science Engineering Student | Full Stack Developer | DSA Enthusiast  
+💡 Passionate about solving real-world problems through code.  
 
-<!---
-vaibhavkumar2001/vaibhavkumar2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥 Skills  
+- 🖥️ Languages: C++, JavaScript, Python  
+- 🌐 Web Dev: React, Node.js, Express, MongoDB  
+- 🏆 Competitive Coding: LeetCode, Codeforces (5)
+
+### 📌 Featured Projects  
+- **[Leetcode](leetcode.com/u/Vaibhav9521)** – A platform integrating multiple coding platforms.  
+- **Pollution Measurement** – IoT-based air pollution tracking.  
+
+📫 **Find me at:**  
+[LinkedIn](linkedin.com/in/vaibhavkumar) | [Portfolio](your-website) | [Email](vk3662380@gmail.com)  
