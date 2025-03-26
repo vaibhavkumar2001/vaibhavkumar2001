@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Your Name]  
+### Hi there 👋, I'm Vaibhav Kumar  
 🚀 Computer Science Engineering Student | Full Stack Developer | DSA Enthusiast  
 💡 Passionate about solving real-world problems through code.  
 
